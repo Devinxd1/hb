@@ -1,8 +1,8 @@
 if (not _G.Flags) then
 	_G.Flags = {
 		ESP = {
-			NotVisibleColor = Color3.fromRGB(255,0,0);
-			VisibleColor = Color3.fromRGB(0,255,0);	
+			NotVisibleColor = Color3.fromRGB(255,255,255);
+			VisibleColor = Color3.fromRGB(255,255,255);	
 			DistanceLimit = 1500;
 			Box = false;
 			Name = false;
